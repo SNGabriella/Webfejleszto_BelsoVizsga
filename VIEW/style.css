@@ -1,0 +1,11 @@
+.container{
+    max-width: 1200px;
+    min-height:calc(100vh - 210px); /*próbáltam reszponzívan lent tartani a footert, de ez sem tökéletes megoldás*/
+   
+}
+
+
+
+
+
+
